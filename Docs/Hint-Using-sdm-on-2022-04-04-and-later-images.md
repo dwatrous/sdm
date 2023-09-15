@@ -1,4 +1,4 @@
-# Hint: Using sdm on 2202-04-04 and Later IMGs
+# Hint: Using sdm on 2022-04-04 and Later IMGs
 
 sdm works fine on RasPiOS 2022-04-04 images (and presumably later). Key considerations for using sdm on these images:
 * Add `--disable piwiz` to the sdm command line if you have fully configured the image using sdm using:
